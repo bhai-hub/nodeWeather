@@ -1,0 +1,64 @@
+
+/* body{
+
+} */
+.box{
+    height: 260px;
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    margin: 30px;
+    border-radius: 20px;
+    width: 250px;
+    text-align: center;
+    padding: 10px;
+}
+
+
+.inputFeild {
+    height: 25px;
+    width: 150px;
+    border-radius: 12px;
+    padding: 5px;
+    font-size: 10px;
+    border: none;
+}
+
+.btn1{
+    padding: 5px;
+    margin-left: 2px;
+    background-color: transparent;
+    border: none;
+}
+
+.bi:hover{
+    color: red;
+}
+
+.loco{
+    color: red
+}
+.result{
+
+    margin-top: 10px;
+}
+.name{
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.temperature{
+    font-size: 20px;
+    margin-top: 12px;
+}
+
+.minMax{
+    font-size: 12px;
+    color: rgb(106, 111, 111);
+}
+
+.starting {
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
